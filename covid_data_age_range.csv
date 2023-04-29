@@ -1,0 +1,67 @@
+Country,Age Range,Gender,Confirmed,Deaths
+United States,0-1 years,Male,1890,51
+United States,1-4 years,Male,12450,154
+United States,5-14 years,Male,35789,578
+United States,15-24 years,Male,42789,659
+United States,25-34 years,Male,51890,786
+United States,35-44 years,Male,65789,2456
+United States,45-54 years,Male,80010,7659
+United States,55-64 years,Male,108905,15892
+United States,65-74 years,Male,266431,34357
+United States,75-84 years,Male,154688,31490
+United States,85+ years,Male,93256,19578
+United States,0-1 years,Female,1734,70
+United States,1-4 years,Female,8356,150
+United States,5-14 years,Female,28754,100
+United States,15-24 years,Female,26782,200
+United States,25-34 years,Female,12674,150
+United States,35-44 years,Female,10897,5
+United States,45-54 years,Female,9845,2
+United States,55-64 years,Female,12567,10
+United States,65-74 years,Female,24367,8
+United States,75-84 years,Female,33905,10
+United States,85+ years,Female,40000,5
+India,0-1 years,Male,50000,15
+India,1-4 years,Male,60000,10
+India,5-14 years,Male,45000,30
+India,15-24 years,Male,35000,15
+India,25-34 years,Male,25000,50
+India,35-44 years,Male,20000,40
+India,45-54 years,Male,15000,80
+India,55-64 years,Male,10000,30
+India,65-74 years,Male,8000,100
+India,75-84 years,Male,5000,50
+India,85+ years,Male,1000,62
+India,0-1 years,Female,700,45
+India,1-4 years,Female,6500,122
+India,5-14 years,Female,8000,54
+India,15-24 years,Female,7000,545
+India,25-34 years,Female,5555,45
+India,35-44 years,Female,4566,152
+India,45-54 years,Female,46556,556
+India,55-64 years,Female,65456,545
+India,65-74 years,Female,15454,545
+India,75-84 years,Female,54545,452
+India,85+ years,Female,54545,455
+Brazil,0-1 years,Male,,10
+Brazil,1-4 years,Male,15000,5
+Brazil,5-14 years,Male,18000,15
+Brazil,15-24 years,Male,22000,10
+Brazil,25-34 years,Male,40000,25
+Brazil,35-44 years,Male,45000,20
+Brazil,45-54 years,Male,55000,40
+Brazil,55-64 years,Male,65000,30
+Brazil,65-74 years,Male,50000,70
+Brazil,75-84 years,Male,45000,40
+Brazil,85+ years,Male,35000,80
+Brazil,0-1 years,Female,30000,60
+Brazil,1-4 years,Female,25000,100
+Brazil,5-14 years,Female,20000,50
+Brazil,15-24 years,Female,15000,150
+Brazil,25-34 years,Female,12000,100
+Brazil,35-44 years,Female,8222,80
+Brazil,45-54 years,Female,54556,99
+Brazil,55-64 years,Female,54545,878
+Brazil,65-74 years,Female,54557,8888
+Brazil,75-84 years,Female,87878,8718
+Brazil,85+ years,Female,96432,8896
